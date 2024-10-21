@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Uzumaki Naruto",
+      "email": "naruto@email.com",
+      "password": "Senha12345"
+    },
+    {
+      "name": "Hyuga Hinata",
+      "email": "hinata@email.com.br",
+      "password": "Hinata123456"
+    },
+    {
+      "name": "Uchiha Sasuke",
+      "email": "sasuke@email.com",
+      "password": "Sasuke4567890"
+    },
+    {
+      "name": "Haruno Sakura",
+      "email": "sakura@email.com",
+      "password": "Sakura7894567"
+    },
+    {
+      "name": "Rock Lee",
+      "email": "lee@email.com.br",
+      "password": "Lee12345678"
+    }
+  ]
+}
